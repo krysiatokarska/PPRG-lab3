@@ -1,5 +1,5 @@
 ﻿// zad3_3 Napisz program rozwiązujący równanie kwadratowe. Ma wypisać postać, pobierze liczby 
-// pokaże postać uwzględniając podane współczynniki i obliczy pierwiastki
+// pokaże postać uwzględniając podane współczynniki i obliczy pierwiastki.
 
 #include <iostream>
 #include <math.h>
